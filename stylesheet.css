@@ -121,7 +121,7 @@ h1 {
 .clearfix {
 		zoom: 1;
 }
-.clearfix: after {
+.clearfix:after {
 		content: "";
 		display: block;
 		clear: both;
